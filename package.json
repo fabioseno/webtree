@@ -1,0 +1,24 @@
+{
+  "name": "Webtree",
+  "version": "1.0.0",
+  "description": "Webtree website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabioseno/webtree"
+  },
+  "author": "Fabio Akira Yoshida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabioseno/webtree/issues"
+  },
+  "homepage": "https://github.com/fabioseno/webtree",
+  "dependencies": {
+    "express": "^4.11.2",
+    "jade": "^1.9.2",
+    "serve-favicon": "^2.2.0"
+  }
+}
